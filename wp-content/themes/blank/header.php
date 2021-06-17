@@ -57,7 +57,7 @@
                         </li>
 
                         <li>
-                            <a href="http://localhost/wordpress/my-account/">Check out</a>
+                            <a href="http://localhost/wordpress/my-account/">My Account</a>
                         </li>
 
                         <li>
